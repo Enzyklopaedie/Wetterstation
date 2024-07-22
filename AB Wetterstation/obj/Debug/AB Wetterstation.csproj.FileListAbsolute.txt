@@ -1,0 +1,53 @@
+C:\Users\Hz\Desktop\AB Wetterstation\AB Wetterstation\bin\Debug\AB Wetterstation.exe.config
+C:\Users\Hz\Desktop\AB Wetterstation\AB Wetterstation\bin\Debug\AB Wetterstation.exe
+C:\Users\Hz\Desktop\AB Wetterstation\AB Wetterstation\bin\Debug\AB Wetterstation.pdb
+C:\Users\Hz\Desktop\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.csproj.AssemblyReference.cache
+C:\Users\Hz\Desktop\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hz\Desktop\AB Wetterstation\AB Wetterstation\obj\Debug\AB_Wetterstation.Properties.Resources.resources
+C:\Users\Hz\Desktop\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.csproj.GenerateResource.cache
+C:\Users\Hz\Desktop\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.csproj.CoreCompileInputs.cache
+C:\Users\Hz\Desktop\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.exe
+C:\Users\Hz\Desktop\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.pdb
+D:\Vorbereitung\TG11\IT\AB Wetterstation\AB Wetterstation\bin\Debug\AB Wetterstation.exe.config
+D:\Vorbereitung\TG11\IT\AB Wetterstation\AB Wetterstation\bin\Debug\AB Wetterstation.exe
+D:\Vorbereitung\TG11\IT\AB Wetterstation\AB Wetterstation\bin\Debug\AB Wetterstation.pdb
+D:\Vorbereitung\TG11\IT\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.csproj.AssemblyReference.cache
+D:\Vorbereitung\TG11\IT\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.csproj.SuggestedBindingRedirects.cache
+D:\Vorbereitung\TG11\IT\AB Wetterstation\AB Wetterstation\obj\Debug\AB_Wetterstation.Form1.resources
+D:\Vorbereitung\TG11\IT\AB Wetterstation\AB Wetterstation\obj\Debug\AB_Wetterstation.Properties.Resources.resources
+D:\Vorbereitung\TG11\IT\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.csproj.GenerateResource.cache
+D:\Vorbereitung\TG11\IT\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.csproj.CoreCompileInputs.cache
+D:\Vorbereitung\TG11\IT\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.exe
+D:\Vorbereitung\TG11\IT\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.pdb
+E:\Vorbereitung\TG11\IT\AB Wetterstation\AB Wetterstation\bin\Debug\AB Wetterstation.exe.config
+E:\Vorbereitung\TG11\IT\AB Wetterstation\AB Wetterstation\bin\Debug\AB Wetterstation.exe
+E:\Vorbereitung\TG11\IT\AB Wetterstation\AB Wetterstation\bin\Debug\AB Wetterstation.pdb
+E:\Vorbereitung\TG11\IT\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.csproj.AssemblyReference.cache
+E:\Vorbereitung\TG11\IT\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.csproj.SuggestedBindingRedirects.cache
+E:\Vorbereitung\TG11\IT\AB Wetterstation\AB Wetterstation\obj\Debug\AB_Wetterstation.Form1.resources
+E:\Vorbereitung\TG11\IT\AB Wetterstation\AB Wetterstation\obj\Debug\AB_Wetterstation.Properties.Resources.resources
+E:\Vorbereitung\TG11\IT\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.csproj.GenerateResource.cache
+E:\Vorbereitung\TG11\IT\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.csproj.CoreCompileInputs.cache
+E:\Vorbereitung\TG11\IT\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.exe
+E:\Vorbereitung\TG11\IT\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.pdb
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\AB Wetterstation\AB Wetterstation\bin\Debug\AB Wetterstation.exe.config
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\AB Wetterstation\AB Wetterstation\bin\Debug\AB Wetterstation.exe
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\AB Wetterstation\AB Wetterstation\bin\Debug\AB Wetterstation.pdb
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.csproj.AssemblyReference.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.csproj.SuggestedBindingRedirects.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\AB Wetterstation\AB Wetterstation\obj\Debug\AB_Wetterstation.Form1.resources
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\AB Wetterstation\AB Wetterstation\obj\Debug\AB_Wetterstation.Properties.Resources.resources
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.csproj.GenerateResource.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.csproj.CoreCompileInputs.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.exe
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.pdb
+C:\Users\Radeon\Desktop\C# GitHub\AB Wetterstation\AB Wetterstation\bin\Debug\AB Wetterstation.exe.config
+C:\Users\Radeon\Desktop\C# GitHub\AB Wetterstation\AB Wetterstation\bin\Debug\AB Wetterstation.exe
+C:\Users\Radeon\Desktop\C# GitHub\AB Wetterstation\AB Wetterstation\bin\Debug\AB Wetterstation.pdb
+C:\Users\Radeon\Desktop\C# GitHub\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.csproj.AssemblyReference.cache
+C:\Users\Radeon\Desktop\C# GitHub\AB Wetterstation\AB Wetterstation\obj\Debug\AB_Wetterstation.Form1.resources
+C:\Users\Radeon\Desktop\C# GitHub\AB Wetterstation\AB Wetterstation\obj\Debug\AB_Wetterstation.Properties.Resources.resources
+C:\Users\Radeon\Desktop\C# GitHub\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.csproj.GenerateResource.cache
+C:\Users\Radeon\Desktop\C# GitHub\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.csproj.CoreCompileInputs.cache
+C:\Users\Radeon\Desktop\C# GitHub\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.exe
+C:\Users\Radeon\Desktop\C# GitHub\AB Wetterstation\AB Wetterstation\obj\Debug\AB Wetterstation.pdb
